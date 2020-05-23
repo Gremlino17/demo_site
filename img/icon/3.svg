@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="44" height="40" viewBox="0 0 44 40">
+  <defs>
+    <style>
+
+      .cls-2 {
+        fill: #000000;
+        filter: url(#color-overlay-1);
+      }
+    </style>
+
+    <filter id="color-overlay-1" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#555555" flood-opacity="1"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+      <feBlend mode="normal" in2="SourceGraphic" result="colorOverlay"/>
+    </filter>
+  </defs>
+  <path d="M0.007,19.603 C0.007,19.603 3.992,17.454 3.992,17.454 C3.992,17.454 21.444,26.864 21.444,26.864 C21.444,26.864 38.896,17.454 38.896,17.454 C38.896,17.454 42.881,19.603 42.881,19.603 C42.881,19.603 21.444,31.160 21.444,31.160 C21.444,31.160 0.007,19.603 0.007,19.603 ZM0.007,11.572 C0.007,11.572 21.444,0.012 21.444,0.012 C21.444,0.012 42.881,11.572 42.881,11.572 C42.881,11.572 21.444,23.133 21.444,23.133 C21.444,23.133 0.007,11.572 0.007,11.572 ZM21.444,34.891 C21.444,34.891 38.896,25.479 38.896,25.479 C38.896,25.479 42.881,27.627 42.881,27.627 C42.881,27.627 21.444,39.189 21.444,39.189 C21.444,39.189 0.007,27.627 0.007,27.627 C0.007,27.627 3.992,25.479 3.992,25.479 C3.992,25.479 21.444,34.891 21.444,34.891 Z" id="path-1" class="cls-2" fill-rule="evenodd"/>
+</svg>
