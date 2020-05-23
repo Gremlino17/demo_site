@@ -912,7 +912,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile__label:before {
-  content: url(/img/icon/arrow.png);
+  content: url(img/icon/arrow.png);
   position: absolute;
   width: 21px;
   height: 21px;
