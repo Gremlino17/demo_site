@@ -912,8 +912,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile__label:before {
-  content: url(https://github.com/Gremlino17/demo_site/blob/master/img/icon/arrow.png);
+  content: "";
   position: absolute;
+  background-image: url(img/icon/arrow.png);
   width: 21px;
   height: 21px;
   z-index: 10;
