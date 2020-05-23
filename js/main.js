@@ -44,7 +44,7 @@ $(document).ready(function () {
                     slideShadows: true,
                 },
             },
-            520:{
+            520: {
                 autoHeight: true,
                 loop: true,
                 grabCursor: true,
